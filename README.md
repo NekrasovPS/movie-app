@@ -1,1 +1,1 @@
-const API_KEY = '1484424482c06fd4b63c25561b1a72b3';
+https://movie-app-blue-xi.vercel.app/
